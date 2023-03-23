@@ -8,3 +8,13 @@
 	url = https://github.com/rsbivand/rgrass
 	shallow = true
 	registered = true
+[submodule "rgrass7"]
+	path = rgrass7
+	url = https://github.com/cran/rgrass7
+	shallow = true
+	registered = true
+[submodule "splancs"]
+	path = splancs
+	url = https://github.com/cran/splancs
+	shallow = true
+	registered = true
