@@ -15,6 +15,6 @@
 	registered = true
 [submodule "splancs"]
 	path = splancs
-	url = https://github.com/cran/splancs
+	url = https://github.com/rsbivand/splancs
 	shallow = true
 	registered = true
