@@ -13,6 +13,12 @@
 	url = https://github.com/cran/rgrass7
 	shallow = true
 	registered = true
+[submodule "spgwr"]
+	path = spgwr
+	url = https://github.com/rsbivand/spgwr
+	shallow = true
+	subdir = pkg/spgwr
+	registered = true
 [submodule "splancs"]
 	path = splancs
 	url = https://github.com/rsbivand/splancs
