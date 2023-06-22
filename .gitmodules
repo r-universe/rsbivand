@@ -17,7 +17,6 @@
 	path = spgwr
 	url = https://github.com/rsbivand/spgwr
 	shallow = true
-	subdir = pkg/spgwr
 	registered = true
 [submodule "splancs"]
 	path = splancs
