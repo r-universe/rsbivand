@@ -5,9 +5,6 @@
 [submodule "rgrass"]
 	path = rgrass
 	url = https://github.com/rsbivand/rgrass
-[submodule "rgrass7"]
-	path = rgrass7
-	url = https://github.com/cran/rgrass7
 [submodule "spgwr"]
 	path = spgwr
 	url = https://github.com/rsbivand/spgwr
